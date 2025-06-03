@@ -141,3 +141,6 @@
 
 <p>🧠 <strong>So, in short:</strong><br>
 Kubernetes is a <strong>full-featured system</strong> for running modern cloud-native applications — it’s much more than just deployment.</p>
+
+
+https://kubernetes.io/docs/tutorials/kubernetes-basics/

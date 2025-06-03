@@ -79,7 +79,7 @@
     <tr><td><strong>Istio</strong></td><td>Service mesh & traffic control</td></tr>
   </tbody>
 </table>
-<h2>What is Kubernetes?</h2>
+<h2>Why Kubernetes?</h2>
 <p><strong>Kubernetes</strong> (often abbreviated as <strong>K8s</strong>) is <em>not just for deployment</em> — it’s a container orchestration platform that helps you <strong>automate, manage, and scale</strong> your containerized applications.</p>
 
 <h3>Here’s a breakdown of what Kubernetes is used for:</h3>
